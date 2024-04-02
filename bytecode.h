@@ -1,7 +1,7 @@
 #ifndef KONGROO_BYTECODE_H
 #define KONGROO_BYTECODE_H
 
-enum OpCode {
+enum bytecode_op {
   OP_PUSH,
   OP_ADD,
   OP_SUB,
